@@ -1,0 +1,52 @@
+html{
+    background-color: #F6D6D6;
+}
+
+
+p{
+    color: blueviolet
+}
+
+.negritas{
+    font-weight: bold
+}
+
+.font-verde{
+    color: green;
+}
+
+
+.no-named-color{
+    color: #0F8405AA;
+    font-weight: 600;
+    font-size: 20pt;
+}
+
+h2[draggable="true"] {
+    color: #A1EEBD;
+    font-weight: 400;
+}
+
+*{
+    font-family: "Edu AU VIC WA NT Pre",
+        cursive;
+}
+
+#main{
+    text-align: center;
+    color: #F6F7C4;
+}
+
+.em{
+    font-size: 1em;
+}
+
+.rem{
+    font-size: 1rem;
+}
+
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
